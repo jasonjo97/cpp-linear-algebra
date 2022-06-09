@@ -1,5 +1,5 @@
-#include "multiply.h"
-#include "inverse.h"
+#include "../include/multiply.h"
+#include "../include/inverse.h"
 
 #include <iostream> 
 #include <vector> 
